@@ -1,0 +1,60 @@
+timestamp=1620033882254
+
+[~A]
+ModifyID=1
+Version=74
+
+[~MFT]
+0=28|0Modified_Booth_radix4.mgf|7891|0
+1=4|1Modified_Booth_radix4.mgf|5059|0
+3=4|3Modified_Booth_radix4.mgf|2436|0
+
+[booth_decoder]
+A/structure=21|../src/boothMultiplier_radix4.vhd|69|1*3296
+BinI32/structure=3*1363
+I=0*3965
+I/structure=0*4944
+M=11|0|ve4|1620033881994|../src/boothMultiplier_radix4.vhd|0*3508*0x5a9acc1c5b619c698551f0b2d5c0dbeb152a3519|0*3865*0x23b75c12e3e89f2ef000564498faa8c2
+M/structure=21|0|ve4|1620033882001|../src/boothMultiplier_radix4.vhd|0*4211*0x22420130bb26cb1708989b7cd002b962709b0bd6|0*4831*0x20116f55b147878295aeff36dce7fc50
+R=../src/boothMultiplier_radix4.vhd|62
+Version=11.1.262.7351 (Windows)|00000003789cd3f5370600015b00b0|3fe7407d3dfb7e29ad20794110723a2235a00e16f05667b462e7fc846de7a6ffd85548683c31ce3769d7981167fc1b61
+Version/structure=11.1.262.7351 (Windows)|00000003789cd3f5370600015b00b0|eab8953fe0a98340e036eda18bd6d669520908b071c9b2c5bba6c893b05fa68080901555427b609dbc3e5bfbbc9952b8
+
+[cladder]
+A/structure=21|../src/boothMultiplier_radix4.vhd|40|1*965
+BinI32/structure=3*570
+I=0*2169
+I/structure=0*3015
+M=11|0|ve4|1620033881967|../src/boothMultiplier_radix4.vhd|0*1771*0x905f43444eed926617c3e8d71ebe07613bc779c3|0*2075*0x23b75c12e3e89f2ef000564498faa8c2
+M/structure=21|0|ve4|1620033881974|../src/boothMultiplier_radix4.vhd|0*2409*0xefcb6d3693d6f7992dc18febc012dfa0451578f1|0*2908*0x20116f55b147878295aeff36dce7fc50
+R=../src/boothMultiplier_radix4.vhd|34
+Version=11.1.262.7351 (Windows)|00000003789cd3f5370600015b00b0|06f87b76de43cf022131c9102fe5671626527262ddaa47cb266f3a3c4d9b973a5afcce6e5d38f765ec5b0ef2e28e8466
+Version/structure=11.1.262.7351 (Windows)|00000003789cd3f5370600015b00b0|eab8953fe0a98340e036eda18bd6d669520908b071c9b2c5bba6c893b05fa6803422db759064d28f7cf712bbf24912ef
+
+[modified_booth_multiplier]
+A/structure=21|../src/boothMultiplier_radix4.vhd|102|1*5059
+BinI32/structure=3*2436
+I=0*6001
+I/structure=0*7891
+M=11|0|ve4|1620033882036|../src/boothMultiplier_radix4.vhd|0*5505*0x17e4a041e32d97aa8f054974f0e28e2836100695|0*5889*0x23b75c12e3e89f2ef000564498faa8c2
+M/structure=21|0|ve4|1620033882045|../src/boothMultiplier_radix4.vhd|0*6259*0x747b2aa0867bf266d47e220ecba9f73e5c1ed1e7|0*7766*0x20116f55b147878295aeff36dce7fc50
+R=../src/boothMultiplier_radix4.vhd|93
+Version=11.1.262.7351 (Windows)|00000003789cd3f5370600015b00b0|0e7c949252b4fbbb46b20522e3866d64cb563f6971e3f39eab24093c16f7e13d0af7ea1d7bc7fc400f1ea9ae04e268905627d3a4404353016923dc96cd8527c0
+Version/structure=11.1.262.7351 (Windows)|00000003789cd3f5370600015b00b0|eab8953fe0a98340e036eda18bd6d669520908b071c9b2c5bba6c893b05fa68087cc19519705a91fc6686cf0749692aa
+
+[twos_comp]
+A/structure=21|../src/boothMultiplier_radix4.vhd|12|1*0
+BinI32/structure=3*0
+I=0*628
+I/structure=0*1298
+M=11|0|ve4|1620033881925|../src/boothMultiplier_radix4.vhd|0*223*0x94af1938db1422e5acf71a49bfc734f8414b2b09|0*532*0x23b75c12e3e89f2ef000564498faa8c2
+M/structure=21|0|ve4|1620033881928|../src/boothMultiplier_radix4.vhd|0*870*0x3f65cdaa56ba166c641afebf8645b891170a7546|0*1189*0x20116f55b147878295aeff36dce7fc50
+R=../src/boothMultiplier_radix4.vhd|6
+Version=11.1.262.7351 (Windows)|00000003789cd3f5370600015b00b0|1e22453016139c70035b2a290a4872e150c4b6dd3333f88a08b01e61079c21facc50639d3403d338c6e8d940bb231641
+Version/structure=11.1.262.7351 (Windows)|00000003789cd3f5370600015b00b0|eab8953fe0a98340e036eda18bd6d669520908b071c9b2c5bba6c893b05fa680aa4bc02ee5d18b36472da02aa551e643
+
+[~U]
+booth_decoder=11|0*3265|
+cladder=CLAdder 11|0*1550|
+modified_booth_multiplier=11|0*5237|
+twos_comp=11|0*0|

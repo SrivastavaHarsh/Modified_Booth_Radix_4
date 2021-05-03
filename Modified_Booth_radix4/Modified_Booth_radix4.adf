@@ -1,0 +1,28 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=Modified_Booth_radix4
+[Library]
+Modified_Booth_radix4=.\Modified_Booth_radix4\Modified_Booth_radix4.lib
+[$LibMap$]
+Modified_Booth_radix4=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[Files]
+/boothMultiplier_radix4.vhd=-1
+[Files.Data]
+.\src\boothMultiplier_radix4.vhd=VHDL Source Code
+[SpecTracer]
+WindowVisible=0
+[HierarchyViewer]
+HierarchyInformation=modified_booth_multiplier|structure|0 
+ShowHide=ShowTopLevel
+Selected=

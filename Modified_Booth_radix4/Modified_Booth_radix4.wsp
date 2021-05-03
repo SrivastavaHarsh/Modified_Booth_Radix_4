@@ -1,0 +1,23 @@
+[CACHESIMPLE|Aldec.SymbolsCommands.7]
+Modified_Booth_radix4=1
+Built-in symbols=0
+
+[COMPILESTATUS|.\src\boothMultiplier_radix4.vhd]
+FileTimeLow=30883838
+Status=Compiled
+
+[General]
+CurrentVersion=103
+
+[CACHEDOC|Aldec.Project.Generic.7|.\Modified_Booth_radix4\Modified_Booth_radix4.adf|]
+Path=
+
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\Modified_Booth_radix4\src\boothMultiplier_radix4.vhd|]
+CurrentLine=129
+CurrentColumn=75
+Bookmarks=-1
+BookmarksLength=3
+ZoomFactor=0
+Frame=0
+WindowWorkspaceInfo="LAAAAAAAAAABAAAA/////////////////////4QAAABdAAAAVQUAAEsCAAAAAAAAAAAAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADIAAAAyAAAAAAAAAAAAAAAyAAAAMgAAAAAAAAAAAAAAAAAAAAAAAAACQAAAAEAAAA="
+

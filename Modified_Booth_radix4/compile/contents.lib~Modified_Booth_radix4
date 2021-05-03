@@ -1,0 +1,9 @@
+1
+~E 1 "../src/boothMultiplier_radix4.vhd" 62 booth_decoder
+~A 1 "../src/boothMultiplier_radix4.vhd" 69 structure
+~E 1 "../src/boothMultiplier_radix4.vhd" 34 CLAdder
+~A 1 "../src/boothMultiplier_radix4.vhd" 40 structure
+~E 1 "../src/boothMultiplier_radix4.vhd" 93 modified_booth_multiplier
+~A 1 "../src/boothMultiplier_radix4.vhd" 102 structure
+~E 1 "../src/boothMultiplier_radix4.vhd" 6 twos_comp
+~A 1 "../src/boothMultiplier_radix4.vhd" 12 structure

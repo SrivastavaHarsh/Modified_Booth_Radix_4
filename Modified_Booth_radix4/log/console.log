@@ -1,0 +1,20 @@
+# Design: Design Modified_Booth_radix4 already active.
+# DESIGN: Default Design Language: VHDL
+# DESIGN: Default BDE Language: VHDL
+# DESIGN: Flow Manager: Not Defined
+acom -reorder -O3 -e 100 -work Modified_Booth_radix4 -2002  $dsn/src/boothMultiplier_radix4.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:/My_Designs/VHDL_LAB/Modified_Booth_radix4/src/boothMultiplier_radix4.vhd
+# Compile Entity "twos_comp"
+# Compile Architecture "structure" of Entity "twos_comp"
+# Compile Entity "CLAdder"
+# Compile Architecture "structure" of Entity "CLAdder"
+# Compile Entity "booth_decoder"
+# Compile Architecture "structure" of Entity "booth_decoder"
+# Compile Entity "modified_booth_multiplier"
+# Compile Architecture "structure" of Entity "modified_booth_multiplier"
+# Top-level unit(s) detected:
+# Entity => modified_booth_multiplier
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.3 [s]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
